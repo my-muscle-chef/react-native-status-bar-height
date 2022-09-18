@@ -2,7 +2,7 @@
 
 > Small library that helps you to get status bar height
 
-P.S :iphone:X supported :heart:
+P.S :iphone:14 Pro supported :heart:
 
 ## Install
 
